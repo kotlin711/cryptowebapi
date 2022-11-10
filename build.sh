@@ -1,4 +1,6 @@
 cd build
 cmake ..
 make
- ./cryptoapipp
+cd test
+./cryptoapipp_test
+# ./cryptoapipp
